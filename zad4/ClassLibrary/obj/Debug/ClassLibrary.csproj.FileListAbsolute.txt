@@ -1,0 +1,5 @@
+C:\Users\Marina\documents\visual studio 2015\Projects\zad4\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Marina\documents\visual studio 2015\Projects\zad4\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Marina\documents\visual studio 2015\Projects\zad4\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Marina\documents\visual studio 2015\Projects\zad4\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Marina\documents\visual studio 2015\Projects\zad4\ClassLibrary\obj\Debug\ClassLibrary.pdb

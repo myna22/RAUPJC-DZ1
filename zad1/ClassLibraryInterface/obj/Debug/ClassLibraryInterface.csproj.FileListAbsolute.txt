@@ -1,0 +1,4 @@
+C:\Users\Marina\documents\visual studio 2015\Projects\zad1\ClassLibraryInterface\bin\Debug\ClassLibraryInterface.dll
+C:\Users\Marina\documents\visual studio 2015\Projects\zad1\ClassLibraryInterface\bin\Debug\ClassLibraryInterface.pdb
+C:\Users\Marina\documents\visual studio 2015\Projects\zad1\ClassLibraryInterface\obj\Debug\ClassLibraryInterface.dll
+C:\Users\Marina\documents\visual studio 2015\Projects\zad1\ClassLibraryInterface\obj\Debug\ClassLibraryInterface.pdb
